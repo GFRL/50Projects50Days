@@ -26,3 +26,11 @@ skill: 1 star
 ## Project 6:Scrolling-animation 7/20
 difficulty: 1 star
 skill: 1 star
+
+## Project 7:Split-landing-page 7/21
+difficulty: 1 star
+skill: 1 star
+
+## Project 8:Form-input-wave 7/21
+difficulty: 1 star
+skill: 1 star
