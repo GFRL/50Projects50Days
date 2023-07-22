@@ -34,3 +34,13 @@ skill: 1 star
 ## Project 8:Form-input-wave 7/21
 difficulty: 1 star
 skill: 1 star
+
+## Project 9:Sound-board 7/22
+difficulty: 0 star
+skill: 0 star
+(directly copy)
+
+## Project 10:Dad-jokes 7/22
+difficulty: 0 star
+skill: 0 star
+(directly copy)
